@@ -1,0 +1,17 @@
+.button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: aliceblue;
+    border: 1px solid black;
+    max-width: max-content;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 0 auto;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: lightblue; 
+}
